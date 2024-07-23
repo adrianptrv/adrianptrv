@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian Petrov</h1>
-<h3 align="center">Junior Front-end developer from Bulgaria</h3>
+<h3 align="center">Front-end developer from Bulgaria</h3>
 
 - 🌱 I’m currently learning **React and Typescript**
 
